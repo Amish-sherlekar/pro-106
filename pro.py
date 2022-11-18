@@ -1,5 +1,5 @@
 import csv
-import plotly_express as px
+import plotly.express as px
 import numpy as np
 
 data = open("Student Marks vs Days Present.csv")
